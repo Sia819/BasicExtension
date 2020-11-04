@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Extension.DirectoryInfo
+namespace Extension.String.Addon
 {
-    public static class Addon
+    public static class StringAddon
     {
 
     }
