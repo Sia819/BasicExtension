@@ -1,7 +1,9 @@
 # BasicExtension
+## Specification (사양)
 
- Specification (사양)
----
-+ Language - CSharp  
-+ Platform - .Net Core 3.1  
++ Language - ```CSharp```
++ Framework : ```.Net Core 3.1```
+
+
+
 
