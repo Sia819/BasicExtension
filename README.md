@@ -1,4 +1,4 @@
 # BasicExtension
 
-> Language CSharp  
-> platform .Net Core 3.1  
+> Language - CSharp  
+> Platform - .Net Core 3.1  
