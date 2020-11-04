@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\VisualStudio-workspace\\BasicExtension\\BasicExtension\\BasicExtension.csproj",
-      "projectName": "BasicExtension",
-      "projectPath": "P:\\VisualStudio-workspace\\BasicExtension\\BasicExtension\\BasicExtension.csproj",
+      "projectUniqueName": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj",
+      "projectName": "Extension",
+      "projectPath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj",
       "packagesPath": "C:\\Users\\jjn97\\.nuget\\packages\\",
-      "outputPath": "P:\\VisualStudio-workspace\\BasicExtension\\BasicExtension\\obj\\",
+      "outputPath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjn97\\AppData\\Roaming\\NuGet\\NuGet.Config",

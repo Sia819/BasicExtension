@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9NJa4kGGfDEkDyklMjSoeioo9uNWILoek2XKiwIuzOmqwAiIDe8rbsX4aQvSxy2fdgdduVVjpvH9bkSRfDeAw==",
+  "dgSpecHash": "tMZCncfJGAr0E7dOYA7GzFGdkjfil+BUU8RCYsAp3GrLRO6e37HGNDl1COIbEdw9EMBAkiOByDVSUlMC10xDLw==",
   "success": true,
-  "projectFilePath": "P:\\VisualStudio-workspace\\BasicExtension\\BasicExtension\\BasicExtension.csproj",
+  "projectFilePath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

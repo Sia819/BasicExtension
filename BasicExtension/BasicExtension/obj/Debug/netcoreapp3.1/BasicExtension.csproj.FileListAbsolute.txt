@@ -1,0 +1,4 @@
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\BasicExtension.csprojAssemblyReference.cache
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\BasicExtension.AssemblyInfoInputs.cache
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\BasicExtension.AssemblyInfo.cs
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\BasicExtension.csproj.CoreCompileInputs.cache
