@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Extension.Private
+namespace Basic.Extension
 {
-    class System
+    internal class String_In
     {
+
     }
 }

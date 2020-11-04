@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Extension.DirectoryInfo
 {
-    public static class Addon
+    public static class DirectoryInfo_Ex
     {
-
+        // Not implemented
     }
 }

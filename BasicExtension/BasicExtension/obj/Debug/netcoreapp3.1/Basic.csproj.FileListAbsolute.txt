@@ -1,0 +1,9 @@
+P:\github\BasicExtension\BasicExtension\BasicExtension\bin\Debug\netcoreapp3.1\Basic.deps.json
+P:\github\BasicExtension\BasicExtension\BasicExtension\bin\Debug\netcoreapp3.1\Basic.dll
+P:\github\BasicExtension\BasicExtension\BasicExtension\bin\Debug\netcoreapp3.1\Basic.pdb
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\Basic.dll
+P:\github\BasicExtension\BasicExtension\BasicExtension\obj\Debug\netcoreapp3.1\Basic.pdb

@@ -2,7 +2,7 @@
 
 namespace Extension.String
 {
-    public static class StringExtension
+    public static class String_Ex
     {
         public static bool Contains(this string str, params string[] value)
         {
@@ -21,19 +21,6 @@ namespace Extension.String
             return match.Length <= str.Length && str.Substring(start, end) == match ? true : false;
         }
 
-        public static string TrimStart(this string target, string trimString)
-        {
-            if (string.IsNullOrEmpty(trimString)) return target;
-
-            string result = target;
-            while (result.StartsWith(trimString))
-            {
-                result = result.Substring(trimString.Length);
-            }
-
-            return result;
-        }
-
         public static string TrimEnd(this string target, string trimString)
         {
             if (string.IsNullOrEmpty(trimString)) return target;
@@ -42,6 +29,19 @@ namespace Extension.String
             while (result.EndsWith(trimString))
             {
                 result = result.Substring(0, result.Length - trimString.Length);
+            }
+
+            return result;
+        }
+
+        public static string TrimStart(this string target, string trimString)
+        {
+            if (string.IsNullOrEmpty(trimString)) return target;
+
+            string result = target;
+            while (result.StartsWith(trimString))
+            {
+                result = result.Substring(trimString.Length);
             }
 
             return result;

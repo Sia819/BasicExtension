@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tMZCncfJGAr0E7dOYA7GzFGdkjfil+BUU8RCYsAp3GrLRO6e37HGNDl1COIbEdw9EMBAkiOByDVSUlMC10xDLw==",
+  "dgSpecHash": "II58qE1JC9xF0SSptvnQqQ3Wj+yat/sz81HL6mOeHkQw0MBkhXdfV36DP9tzdM8TgZFkI61npICRtaaPzOfjJQ==",
   "success": true,
-  "projectFilePath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj",
+  "projectFilePath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Basic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

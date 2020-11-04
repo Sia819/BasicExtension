@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj": {}
+    "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Basic.csproj": {}
   },
   "projects": {
-    "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj": {
+    "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj",
+        "projectUniqueName": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Basic.csproj",
         "projectName": "Basic",
-        "projectPath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Extension.csproj",
+        "projectPath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\Basic.csproj",
         "packagesPath": "C:\\Users\\jjn97\\.nuget\\packages\\",
         "outputPath": "P:\\github\\BasicExtension\\BasicExtension\\BasicExtension\\obj\\",
         "projectStyle": "PackageReference",

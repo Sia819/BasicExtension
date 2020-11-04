@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Extension.String.Addon
+namespace Basic.Addon.String
 {
-    public static class StringAddon
+    public static class String
     {
-
+        // Not implemented
     }
 }
